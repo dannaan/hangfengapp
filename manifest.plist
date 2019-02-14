@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.11.19:8081/SolarWallet.ipa</string>
+					<string>http://218.4.57.4:19011/app/ceshi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>http://img4.imgtn.bdimg.com/it/u=684276418,473071884&fm=26&gp=0.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -34,8 +34,10 @@
 				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
+				  <key>subtitle</key>
+          <string>下载啦</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>行风监管</string>
 			</dict>
 		</dict>
 	</array>
